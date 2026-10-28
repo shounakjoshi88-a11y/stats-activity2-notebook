@@ -1,0 +1,1 @@
+Rendered view of the Google Colab notebook used for the Statistics for Data Science 'Activity 2' assignment (Monte Carlo verification of computed probabilities). Live notebook: https://colab.research.google.com/drive/1yhUC2zk3XKU60cJ8o9tDvrQKiHt0imH3?usp=sharing
